@@ -1,0 +1,8 @@
+bin
+patch/lib*
+patch/AppPlus*
+*.ipa
+*.log
+ProvisioningProfile.txt
+.temp
+.provision.mobileprovision
