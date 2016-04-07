@@ -34,6 +34,8 @@ Tutorial:
 ###Steps
 
 * Uninstall Snapchat from the iOS device
-* Run `./tweakpatcher.sh patch snapplus /path/to/Snapchat.ipa`
+* There are two methods to running this script.
+* 1) Run `./tweakpatcher.sh patch snapplus /path/to/Snapchat.ipa` if you don't already have a provisioning profile. It will generate one to use.
+* 2) Run `./tweakpatcher.sh patch snapplus /path/to/Snapchat.ipa BUNDLE_ID` if you already have a provisioning profile and don't want to flood your Apple ID.
 * Follow the on screen instructions.
 * You should now have SnapPlus installed onto your jailed iOS device!
