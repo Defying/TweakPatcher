@@ -33,6 +33,9 @@ Tutorial:
 
 ###Steps
 
+* Install Xcode from the App Store
+* Run it for the first time. It will ask you for your password to install some tools.
+* [Download TweakPatcher](https://github.com/Defying/TweakPatcher/archive/master.zip)
 * Uninstall Snapchat from the iOS device
 * `cd` to the directory where `tweakpatcher.sh` is located.
 * Move your decrypted Snapchat IPA into the directory where `tweakpatcher.sh` is located.
