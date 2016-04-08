@@ -34,9 +34,9 @@ Tutorial:
 ###Steps
 
 * Uninstall Snapchat from the iOS device
-* There are two methods to running this script.
 * `cd` to the directory where `tweakpatcher.sh` is located.
 * Move your decrypted Snapchat IPA into the directory where `tweakpatcher.sh` is located.
+* There are two methods to running this script:
 * 1) Run `./tweakpatcher.sh patch snapplus Snapchat.ipa` if you don't already have a provisioning profile. It will generate one to use.
 * 2) Run `./tweakpatcher.sh patch snapplus Snapchat.ipa BUNDLE_ID` if you already have a provisioning profile and don't want to flood your Apple ID.
 * Follow the on screen instructions.
