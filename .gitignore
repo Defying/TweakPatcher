@@ -7,3 +7,5 @@ ProvisioningProfile.txt
 .temp
 .provision.mobileprovision
 tweakpatcher-testing.sh
+*.plist
+.directories.txt
