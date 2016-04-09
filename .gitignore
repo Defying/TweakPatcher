@@ -6,7 +6,5 @@ patch/AppPlus*
 ProvisioningProfile.txt
 .temp
 .provision.mobileprovision
-tweakpatcher-testing.sh
 *.plist
 .directories.txt
-tweakpatcher-2.sh
