@@ -1,3 +1,5 @@
+###[If you're running into issues, check this Troubleshooting wiki page.](https://github.com/Defying/TweakPatcher/wiki/Troubleshooting)
+
 # TweakPatcher
 Script to patch a Cydia Substrate tweak and it's required dependencies to load on a jailed iOS device.
 
