@@ -111,7 +111,7 @@ function getDependencies {
 		if [ ! -f $PATCHO ]; then
 	      echo "[📥 ] patcho not found, downloading..." | tee -a $LOGFILE
 	      cd $TMP_DIR
-	      curl https://ghostbin.com/paste/ejjej/raw -o main.c >> $LOGFILE 2>&1 # original: http://www.tonymacx86.com/general-help/86205-patcho-simple-hex-binary-patcher.html
+	      curl https://pastebin.com/raw/JR4dhb2H -o main.c >> $LOGFILE 2>&1 # original: http://www.tonymacx86.com/general-help/86205-patcho-simple-hex-binary-patcher.html
         if [ "$?" != "0" ]; then
 					echo "[❌ ] Failed to download patcho. Check $LOGFILE for more information." | tee -a $LOGFILE
 					exit 1
