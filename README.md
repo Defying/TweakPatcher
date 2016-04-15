@@ -1,10 +1,6 @@
-#Deprecated.
-#[Please use the official PP Sideloader to sideload SnapPlus (also supports other ++ tweaks!)](https://github.com/eni9889/ppsideloader)
-
----
-
-####[If you're running into issues, check this Troubleshooting wiki page.](https://github.com/Defying/TweakPatcher/wiki/Troubleshooting)
-
+###Deprecated.
+[Please use the official PP Sideloader to sideload SnapPlus (also supports other ++ tweaks!)](https://github.com/eni9889/ppsideloader)
+=================
 
 # TweakPatcher
 Script to patch a Cydia Substrate tweak and it's required dependencies to load on a jailed iOS device.
